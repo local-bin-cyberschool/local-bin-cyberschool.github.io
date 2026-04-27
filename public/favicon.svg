@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>cyberschool favicon</title>
+  <rect width="64" height="64" rx="18" fill="#173431" />
+  <path
+    d="M18 22h28M18 32h16M18 42h24"
+    stroke="#f4efe6"
+    stroke-linecap="round"
+    stroke-width="4"
+  />
+  <circle cx="47" cy="32" r="5" fill="#2f6f6a" stroke="#f4efe6" stroke-width="3" />
+</svg>
